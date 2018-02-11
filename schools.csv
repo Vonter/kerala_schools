@@ -1,4 +1,4 @@
-Language,Latitude,Longitude,Divisions(Each Language),Teachers,School Code,School Name,School Type,Slno,Standards,Strength,School Type
+Language,Latitude,Longitude,Divisions(Each Language),Teachers,School Code,School Name,School Type,Slno,Standards,Strength(Each Language),School Type
 "MALAYALAM,ENGLISH",10.007149,76.707455,"7,4",12,27369,St. Joseph`s LPS Paingottoor,A,1,1 to 4,"242,162",LP
 MALAYALAM,10.057475,76.66578,7,10,27321,St. Joseph`s LP And UPS Nellimattam,A,2,1 to 7,211,UP
 MALAYALAM,9.993904,76.759838,4,4,27353,St. Jerome`s LPS Njarakkad,A,3,1 to 4,106,LP
